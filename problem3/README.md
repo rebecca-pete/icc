@@ -1,5 +1,6 @@
 # Challenge Summary
 **Problem 3**
+
 Write the pseudo code for the following problem:
 
 Implement a test framework that needs to control several different brands of stepper motors. All the motors have this in common
