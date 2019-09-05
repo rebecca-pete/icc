@@ -18,4 +18,14 @@ Write a function that reads through a file one line at a time and finds all line
 Use regex expressions to find matches for each line.
 
 ## Instructions
-Clone the repo from GitHub: 
+Clone the repo from GitHub: https://github.com/rebecca-pete/icc.git
+
+Run 'npm install --save express body-parser fs cors'.
+
+Run 'npm i --save-dev nodemon'. This re-starts the server automatically anytime file changes are made.
+
+Inside the command line interface, navigate to the **problem2** folder, type 'nodemon' and press ENTER.
+
+Open a browser window, type the address 'http://localhost:3200/readFile', and press ENTER.
+
+Open the command line interface to see the returned messages from the method.
