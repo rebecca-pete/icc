@@ -1,7 +1,5 @@
-# icc
-
 # Challenge Summary
-Problem #2
+**Problem #2**
 Write a function that reads through a file one line at a time and finds all lines that have these elements in them:
 
     1. The line starts with 'WARNING<n...>' where 'n' is a variable length integer, e.g. WARNING1, WARNING10759, etc. WARNING must be all caps and there must be at least one integer following it -- no spaces before the integer
