@@ -14,5 +14,8 @@ Write a function that reads through a file one line at a time and finds all line
 
     5. Solve in Python.
 
-## Approach & Efficiency
+## Approach
 Use regex expressions to find matches for each line.
+
+## Instructions
+Clone the repo from GitHub: 
